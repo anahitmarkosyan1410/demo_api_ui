@@ -1,0 +1,5 @@
+apiTests/PetStore.class
+apiTests/BaseApiTest.class
+uiTests/LoginTest.class
+apiTests/SummaryApiTest.class
+uiTests/BaseTest.class
